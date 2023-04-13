@@ -1,0 +1,21 @@
+/* Exercises 5-9
+    5. substring - 
+                Constructor: String
+                method: Prototype
+       create - 
+                Constructor: Object 
+                method: Static
+       fromCharCode - 
+                Constructor: String 
+                method: Static
+       slice -  
+                Constructors: Array, String 
+                method: Prototype
+       toString - 
+                Constructor: Object, Array, Number, String
+                method: Prototype
+    
+    6. index, lazyDog, operand2 
+    7. index, lazyDog, operand2, CatName (if it's a constructor function)
+    8. BIG_NUMBER
+    9. snake_case, quick_Fox, 1stCharacter  */
